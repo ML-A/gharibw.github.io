@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://gharibw.github.io/
+url: https://gharibw.github.io/
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -12,45 +12,44 @@ url:                   https://gharibw.github.io/
 # Use the empty string '' otherwise.
 # For GitHub project sites, this is usually the name of the project,
 # e.g. `/hydejack`.
-baseurl:               ''
+baseurl: ''
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang: en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title: Gharib Gharibi
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  "Best Jekyll Theme by a Mile".
-  **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
+description: >
+  "GHarib Gharibi's professional website.".
+  Gharibi is a PhD candidate passionate about automating innovative tools for Deep Learning.
 
 # A shorter description for the sidebar.
-tagline:               >
-  "Best Jekyll Theme by a Mile".
-  Open `_config.yml` to edit this text.
+tagline: >
+  A PhD student passionate about Deep Learning: research, teaching, and applications.
+  
 
 # A list of keywords for your blog
-keywords:              []
+keywords:[Gharib, Gharibi, deep learning]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/icons/icon.png
+logo: /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   name:                Gharib Gharibi
-  email:               <mail@domain.tld>
+  email:               <gharibw@hotmail.com>
   # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  twitter:             <gharib_gharibi>
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             >
-  © 2018. All rights reserved.
-  Open `_config.yml` to edit this text.
+  © 2018. All rights reserved. Gharib Gharibi
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
